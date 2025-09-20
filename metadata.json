@@ -1,0 +1,8 @@
+{
+  "name": "Celia-IA: Tu Asistente Celíaco Argentino",
+  "description": "Una aplicación revolucionaria que utiliza inteligencia artificial para ayudar a la comunidad celíaca en Argentina. Encuentra productos sin TACC, analiza ingredientes y descubre recetas seguras al instante. Tu compañero indispensable para una vida sin gluten más fácil y segura.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
